@@ -25,7 +25,9 @@ This Amazon Prime Video Dashboard provides insightful visualizations of the stre
 	
  •	Countries of origin
 
-## 📊 Dashboard Features
+## 📊 Dashboard and Features
+
+![Screenshot-of-powerbi-dashboard.png](https://github.com/Kaushik-Puttaswamy/Amazon-Prime-Video-Dashboard-Power-BI/blob/main/Screenshot-of-powerbi-dashboard.png)
 
 ### 1️⃣ Key Metrics (Top Bar)
 	
