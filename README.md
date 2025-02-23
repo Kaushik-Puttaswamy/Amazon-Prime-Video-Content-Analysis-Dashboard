@@ -73,7 +73,7 @@ This Amazon Prime Video Dashboard provides insightful visualizations of the stre
 	
  •	The number of releases has significantly increased in recent years.
 
-🔧 Tools & Technologies Used
+## 🔧 Tools & Technologies Used
 	
  •	Power BI: For data visualization and dashboard creation.
 	
@@ -81,7 +81,7 @@ This Amazon Prime Video Dashboard provides insightful visualizations of the stre
 	
  •	CSV Data Processing: Extracting, transforming, and loading (ETL) data.
 
-🚀 How to Use the Dashboard
+## 🚀 How to Use the Dashboard
 	
  1.	Open Power BI and load the amazon_prime_titles.csv dataset.
 	
@@ -89,7 +89,7 @@ This Amazon Prime Video Dashboard provides insightful visualizations of the stre
 	
  3.	Interact with visualizations to uncover patterns in Amazon Prime’s content library.
 
-📌 Future Improvements
+## 📌 Future Improvements
 	
  •	Add more interactivity (filters for countries, languages, and production studios).
 	
