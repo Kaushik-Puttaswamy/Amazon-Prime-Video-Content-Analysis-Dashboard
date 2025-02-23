@@ -9,7 +9,7 @@ This Amazon Prime Video Dashboard provides insightful visualizations of the stre
 	
  •	File Name: amazon_prime_titles.csv
 	
- •	Source: Amazon Prime Video dataset
+ •	Source: [Amazon Prime Video dataset](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
 	
  •	Description: The dataset contains information about movies and TV shows available on Amazon Prime Video, including:
 	
