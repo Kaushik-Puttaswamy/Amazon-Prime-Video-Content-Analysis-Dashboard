@@ -13,17 +13,17 @@ This Amazon Prime Video Dashboard provides insightful visualizations of the stre
 	
  •	Description: The dataset contains information about movies and TV shows available on Amazon Prime Video, including:
 	
- •	Titles
+ 	•	Titles
 	
- •	Genres
+ 	•	Genres
 	
- •	Ratings
+ 	•	Ratings
 	
- •	Directors
+ 	•	Directors
 	
- •	Release years
+ 	•	Release years
 	
- •	Countries of origin
+ 	•	Countries of origin
 
 ## 📊 Dashboard and Features
 
