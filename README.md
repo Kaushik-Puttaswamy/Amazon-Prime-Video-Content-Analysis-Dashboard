@@ -12,22 +12,36 @@ This Amazon Prime Video Dashboard provides insightful visualizations of the stre
  •	Source: [Amazon Prime Video dataset](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
 	
  •	Description: The dataset contains information about movies and TV shows available on Amazon Prime Video, including:
+
+ 🔹 show_id
 	
- 🔹 Titles
+ 🔹 type
 	
- 🔹 Genres
+ 🔹 title
 	
- 🔹 Ratings
+ 🔹 director
 	
- 🔹 Directors
+ 🔹 cast
 	
- 🔹 Release years
-	
- 🔹 Countries of origin
+ 🔹 country
+ 
+ 🔹 date_added
+ 
+ 🔹 release_year
+ 
+ 🔹 rating
+ 
+ 🔹 duration
+ 
+ 🔹 listed_in
+ 
+ 🔹 description
 
 ## 📊 Dashboard and Features
 
 ![Screenshot-of-powerbi-dashboard.png](https://github.com/Kaushik-Puttaswamy/Amazon-Prime-Video-Dashboard-Power-BI/blob/main/Screenshot-of-powerbi-dashboard.png)
+
+🌐 Live Power BI Report: [View Dashboard](https://app.powerbi.com/reportEmbed?reportId=2a50a256-4f3f-4404-8991-502a7826cd13&autoAuth=true&ctid=f419c9fe-f7b0-4d87-bee8-e8dfb2190cab)
 
 ### 1️⃣ Key Metrics (Top Bar)
 	
