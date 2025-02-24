@@ -1,9 +1,9 @@
 
-# 📊 Amazon Prime Video Dashboard - Power BI
+# 📊 Amazon Prime Video Content Analysis Dashboard - Power BI
 
 ## 📝 Overview
 
-This Amazon Prime Video Dashboard provides insightful visualizations of the streaming platform’s content, including total titles, ratings, genres, directors, and release years. The dashboard is designed to help users analyze trends in the Amazon Prime catalog using interactive Power BI features.
+This Amazon Prime Video Content Analysis Dashboard provides insightful visualizations of the streaming platform’s content, including total titles, ratings, genres, directors, and release years. The dashboard is designed to help users analyze trends in the Amazon Prime catalog using interactive Power BI features.
 
 ## 📂 Dataset Used
 	
